@@ -1,2 +1,3 @@
 # Portfolio-Optimization-Analysis
-Conducted comprehensive Modern Portfolio Theory analysis of 121 monthly returns across 4 asset classes (real estate, crypto, gold, stocks), utilizing efficient frontier optimization and correlation analysis to identify optimal portfolio allocations, achieving 77% Sharpe ratio improvement.
+Conducted comprehensive Modern Portfolio Theory analysis of 121 monthly returns across 4 asset classes (real estate, crypto, gold, stocks), utilizing efficient frontier optimization and correlation analysis to identify optimal portfolio allocations, achieving 77% Sharpe ratio improvement while demonstrating significant diversification benefits through weak cross-asset dependencies (<0.5) and superior downside risk management.
+
